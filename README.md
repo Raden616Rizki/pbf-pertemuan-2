@@ -100,3 +100,34 @@ npm run dev
 
 Perubahan dapat langsung terjadi setelah mengedit kode dikarenakan dalam NextJS terdapat fitur Fast Resfresh yang memungkinkan pembaruan tampilan laman tanpa menghilangkan state yang sudah ada.
 
+### Tugas Praktikum
+
+***Remix***
+
+---
+
+![gambar-praktikum](img/tugas-praktikum-remix-1.png)
+
+![gambar-praktikum](img/tugas-praktikum-remix-2.png)
+
+![gambar-praktikum](img/tugas-praktikum-remix-3.png)
+
+***Gatsby***
+
+---
+
+![gambar-praktikum](img/tugas-praktikum-gatsby-1.png)
+
+![gambar-praktikum](img/tugas-praktikum-gatsby-2.png)
+
+![gambar-praktikum](img/tugas-praktikum-gatsby-3.png)
+
+![gambar-praktikum](img/tugas-praktikum-gatsby-4.png)
+
+![gambar-praktikum](img/tugas-praktikum-gatsby-5.png)
+
+---
+
+Perbedaan dari ketiga framework tersebut yang terlihat jelas adalah struktur folder dan file yang dimiliki oleh masing-masing framework memiliki strukutur yang berbeda, begitupula dengan penamaannya filenya.
+
+Selanjutnya dari pembuatan file index yang berguna untuk laman awal dari website juga memiliki hirarki folder dan file yang berbeda perihal pengelolaan laman, selain hirarki format file juga berbeda, terlebih lagi dari framework gatsby yang berbeda dari lainnya yaitu menggunakan file js untuk lamannya.
