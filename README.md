@@ -56,6 +56,34 @@ code .
 
 ![gambar-praktikum](img/praktikum-langkah-3-b.png)
 
+**Soal 2**
+
+***Folder .git***: Folder ini berisi semua informasi yang diperlukan untuk melacak perubahan pada source code project dalam repositori GitHub.
+
+***Folder node_modules***: Folder ini berisi modul Node.js yang digunakan dalam proyek. Modul Node.js adalah paket kode yang dapat digunakan kembali untuk berbagai tugas, seperti membuat permintaan HTTP, mengurai JSON, dan mengelola database.
+
+***Folder public***: Folder ini berisi file statis yang disajikan ke klien website. File statis merupakan file yang tidak perlu diubah oleh server web, seperti gambar, file CSS, dan file JavaScript.
+
+***File .eslintrc.json***: File ini berisi konfigurasi untuk linter ESLint. Sehingga ESLint yang dibahas sebelumnya dapat dilakukan kustomisasi di file ini.
+
+***File .gitignore***: File ini berisi daftar file yang tidak boleh dilacak oleh Git. File-file ini biasanya file yang tidak diperlukan untuk proyek, seperti file temporary atau file konfigurasi lokal. File ini juga membatasi file atau folder apa saja yang tidak akan dipush kedalam repositori GitHub.
+
+***File next.config.mjs***: File ini berisi konfigurasi untuk Framework Next.js.
+
+***File next-env.d.ts***: File ini berisi deklarasi tipe untuk variabel environment Next.js. Deklarasi tipe membantu memastikan bahwa variabel environment digunakan dengan benar.
+
+***File package.json***: File ini berisi informasi tentang proyek, seperti nama, versi, dan dependensi. Dependensi adalah paket kode yang diperlukan oleh proyek untuk berjalan.
+
+***File package-lock.json***: File ini berisi daftar dependensi proyek dan versi spesifiknya. File ini membantu memastikan bahwa semua pengembang yang mengerjakan proyek menggunakan versi dependensi yang sama.
+
+***File postcss.config.js***: File ini berisi konfigurasi untuk PostCSS. PostCSS adalah alat yang memungkinkan memproses dan mengubah file CSS yang digunakan.
+
+***File README.md***: File ini berisi README proyek. README adalah file teks yang berisi informasi tentang proyek.
+
+***File tailwind.config.ts***: File ini berisi konfigurasi untuk Tailwind CSS.
+
+***File tsconfig.json***: File ini berisi konfigurasi untuk TypeScript compiler.
+
 ### Langkah 4: Run
 
 ```bash
