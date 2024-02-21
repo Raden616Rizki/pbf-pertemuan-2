@@ -131,3 +131,5 @@ Perubahan dapat langsung terjadi setelah mengedit kode dikarenakan dalam NextJS 
 Perbedaan dari ketiga framework tersebut yang terlihat jelas adalah struktur folder dan file yang dimiliki oleh masing-masing framework memiliki strukutur yang berbeda, begitupula dengan penamaannya filenya.
 
 Selanjutnya dari pembuatan file index yang berguna untuk laman awal dari website juga memiliki hirarki folder dan file yang berbeda perihal pengelolaan laman, selain hirarki format file juga berbeda, terlebih lagi dari framework gatsby yang berbeda dari lainnya yaitu menggunakan file js untuk lamannya.
+
+Dan terakhir adalah dari hal pembuatan proyek, NextJS lebih mudah dan ringkas dalam pembuatannya sedangkah untuk Gatsby sebaliknya, karena saya mengalami kendala dalam pembuatan proyek Gatsby jika hanya menggunakan gatsby new, sehingga saya menggunakan rute lokasi ke github gatsby sehingga pembuatan proyek dapat berhasil.
