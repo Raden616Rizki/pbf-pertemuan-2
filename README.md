@@ -93,3 +93,10 @@ npm run dev
 ![gambar-praktikum](img/praktikum-langkah-4-a.png)
 
 ![gambar-praktikum](img/praktikum-langkah-4-b.png)
+
+**Soal 3**
+
+![gambar-praktikum](img/praktikum-langkah-4-c.png)
+
+Perubahan dapat langsung terjadi setelah mengedit kode dikarenakan dalam NextJS terdapat fitur Fast Resfresh yang memungkinkan pembaruan tampilan laman tanpa menghilangkan state yang sudah ada.
+
